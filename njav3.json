@@ -1,6 +1,6 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"njav2",
+"title":"njav3",
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"https://javplayer.me/",
@@ -10,12 +10,12 @@
 			"url0": "https://www.njav.tv/zh/recent-update",
 			"url1": "https://www.njav.tv/zh/recent-update?page={pg}"
 		},
-             {
+{
 			"title": "fc2",
 			"url0": "https://www.njav.tv/zh/tags/fc2",
 			"url1": "https://www.njav.tv/zh/tags/fc2?page={pg}"
 		}
-	],    
+	],
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
 "vod_info":"",
 "vod_score":"//div[@class='duration']",

@@ -10,7 +10,7 @@
 			"url0": "https://www.njav.tv/zh/recent-update",
 			"url1": "https://www.njav.tv/zh/recent-update?page={pg}"
 		},
-	      {
+             {
 			"title": "fc2",
 			"url0": "https://www.njav.tv/zh/tags/fc2",
 			"url1": "https://www.njav.tv/zh/tags/fc2?page={pg}"

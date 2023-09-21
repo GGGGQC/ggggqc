@@ -27,7 +27,7 @@
 "vod_link_url":"https://www.njav.tv/zh/{id}",
 "play_regex":"",
 "play_url":"{id}",
-"playlist_flag":false,
+"playlist_flag":true,
 "playlist_group_node":"",
 "playlist_title":"",
 "playlist_link_id":"",

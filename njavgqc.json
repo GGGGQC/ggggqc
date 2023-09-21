@@ -66,7 +66,17 @@
 			"url1": "https://www.njav.tv/zh/tags/261ara?page={pg}"
 		},
 {
-			"title": "fc2",
+			"title": "无码",
+			"url0": "https://www.njav.tv/zh/uncensored",
+			"url1": "https://www.njav.tv/zh/uncensored?page={pg}"
+		},
+{
+			"title": "无码破解",
+			"url0": "https://www.njav.tv/zh/uncensored-leaked",
+			"url1": "https://www.njav.tv/zh/uncensored-leaked?page={pg}"
+		},
+{
+			"title": "FC2",
 			"url0": "https://www.njav.tv/zh/tags/fc2",
 			"url1": "https://www.njav.tv/zh/tags/fc2?page={pg}"
 	}

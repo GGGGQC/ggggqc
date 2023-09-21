@@ -11,10 +11,15 @@
 			"url1": "https://www.njav.tv/zh/recent-update?page={pg}"
 		},
 {
+			"title": "全新上市",
+			"url0": "https://www.njav.tv/zh/new-release",
+			"url1": "https://www.njav.tv/zh/new-release?page={pg}"
+		},
+{
 			"title": "fc2",
 			"url0": "https://www.njav.tv/zh/tags/fc2",
 			"url1": "https://www.njav.tv/zh/tags/fc2?page={pg}"
-		}
+	}
 	],
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
 "vod_info":"",

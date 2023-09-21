@@ -10,7 +10,7 @@
 			"url0": "https://www.njav.tv/zh/recent-update",
 			"url1": "https://www.njav.tv/zh/recent-update?page={pg}"
 		}
-	], 
+	],  
 "vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
 "vod_info":"",
 "vod_score":"//div[@class='duration']",

@@ -1,6 +1,6 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"njavgqc",
+"title":"njav@gqc",
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"https://javplayer.me/",
@@ -14,6 +14,26 @@
 			"title": "全新上市",
 			"url0": "https://www.njav.tv/zh/new-release",
 			"url1": "https://www.njav.tv/zh/new-release?page={pg}"
+		},
+{
+			"title": "观看人多",
+			"url0": "https://www.njav.tv/zh/trending",
+			"url1": "https://www.njav.tv/zh/trending?page={pg}"
+		},
+{
+			"title": "本日最佳",
+			"url0": "https://www.njav.tv/zh/today-hot",
+			"url1": "https://www.njav.tv/zh/today-hot?page={pg}"
+		},
+{
+			"title": "本周最佳",
+			"url0": "https://www.njav.tv/zh/weekly-hot",
+			"url1": "https://www.njav.tv/zh/weekly-hot?page={pg}"
+		},
+{
+			"title": "本月最佳",
+			"url0": "https://www.njav.tv/zh/monthly-hot",
+			"url1": "https://www.njav.tv/zh/monthly-hot?page={pg}"
 		},
 {
 			"title": "fc2",
